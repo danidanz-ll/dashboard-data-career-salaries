@@ -2,6 +2,8 @@
 
 Interactive dashboard developed to explore global salary trends in data careers, focusing on data cleaning, analysis, and visualization.
 
+![Dashboard Preview](assets/preview.png)
+
 This project was built after completing the **"Imersão de Dados"** course by Alura, with the goal of applying the knowledge gained in real-world data treatment and dashboard development using Python and Streamlit.
 
 🔗 Live application:  
